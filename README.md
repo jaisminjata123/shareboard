@@ -24,10 +24,8 @@ node server.js
 While node is running, visit the locall!
 
 ## Screenshots
-[Screenshot from 2021-05-22 00-03-53](https://user-images.githubusercontent.com/47449986/215417847-9e693667-8e8a-4bab-857d-9cadc5aef1cc.png)
-y running server at *http://localhost:3000/*
-![Screenshot from 2021-05-21 23-57-51](https://user-images.githubusercon![Screenshot from 2021-05-22 00-12-39](https://user-images.githubusercontent.com/47449986/215418037-a7f1b349-0323-401f-984d-a95aa67a1b8b.png)
-tent.com/47449986/215417801-d166fd9f-cbae-457a-8fad-9ef0de7a92d7.png)
-
-![Screenshot from 2021-05-22 00-06-05](https://user-images.githubusercontent.com/47449986/215417869-b533ce31-055d-4272-9be3-3de29d908b97.png)
-![Screenshot from 2021-05-22 00-07-56](https://user-images.githubusercontent.com/47449986/215417894-dcb88419-5c8b-41ea-8df0-ad951337cdaa.png)
+![SS](https://user-images.githubusercontent.com/47449986/215418985-c334d51a-055f-419a-841e-0496eb120abe.png)
+![SS2](https://user-images.githubusercontent.com/47449986/215418993-90dbc7a0-7437-4d39-a2a7-0fb41758a1a4.png)
+![SS3](https://user-images.githubusercontent.com/47449986/215419000-76359fdf-fe4c-4598-bdaa-5ee7357894a3.png)
+![SS4](https://user-images.githubusercontent.com/47449986/215419005-42253d3c-b140-4964-bc9f-d498a7ea217b.png)
+![SS_logs](https://user-images.githubusercontent.com/47449986/215419017-fbe21946-bad7-4096-b446-d58d711351a9.png)
